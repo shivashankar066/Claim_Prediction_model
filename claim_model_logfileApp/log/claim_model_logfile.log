@@ -1,0 +1,21 @@
+ERROR:django.server:"POST /PredictClaim/ HTTP/1.1" 500 143004
+ERROR:django.server:"POST /PredictClaim/ HTTP/1.1" 500 142653
+INFO:django.utils.autoreload:D:\OneDrive - Quadratic Insights Pvt Ltd\Desktop\Prediction_Engine\Claim_Model\PredictionEngine\Claim_model\claim_model_app\views.py changed, reloading.
+ERROR:django.server:"POST /PredictClaim/ HTTP/1.1" 500 142652
+INFO:django.utils.autoreload:D:\OneDrive - Quadratic Insights Pvt Ltd\Desktop\Prediction_Engine\Claim_Model\PredictionEngine\Claim_model\claim_model_app\views.py changed, reloading.
+ERROR:django.server:"POST /PredictClaim/ HTTP/1.1" 500 142653
+INFO:django.utils.autoreload:D:\OneDrive - Quadratic Insights Pvt Ltd\Desktop\Prediction_Engine\Claim_Model\PredictionEngine\Claim_model\claim_model_app\views.py changed, reloading.
+ERROR:django.server:"POST /PredictClaim/ HTTP/1.1" 500 145000
+INFO:django.utils.autoreload:D:\OneDrive - Quadratic Insights Pvt Ltd\Desktop\Prediction_Engine\Claim_Model\PredictionEngine\Claim_model\claim_model_app\views.py changed, reloading.
+ERROR:django.server:"POST /PredictClaim/ HTTP/1.1" 500 142653
+INFO:django.utils.autoreload:D:\OneDrive - Quadratic Insights Pvt Ltd\Desktop\Prediction_Engine\Claim_Model\PredictionEngine\Claim_model\claim_model_app\apps.py changed, reloading.
+INFO:django.utils.autoreload:D:\OneDrive - Quadratic Insights Pvt Ltd\Desktop\Prediction_Engine\Claim_Model\PredictionEngine\Claim_model\claim_model_app\views.py changed, reloading.
+ERROR:django.server:"POST /PredictClaim/ HTTP/1.1" 500 142728
+INFO:django.utils.autoreload:D:\OneDrive - Quadratic Insights Pvt Ltd\Desktop\Prediction_Engine\Claim_Model\PredictionEngine\Claim_model\claim_model_app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\OneDrive - Quadratic Insights Pvt Ltd\Desktop\Prediction_Engine\Claim_Model\PredictionEngine\Claim_model\claim_model_app\views.py changed, reloading.
+ERROR:django.server:"POST /PredictClaim/ HTTP/1.1" 500 145075
+INFO:django.utils.autoreload:D:\OneDrive - Quadratic Insights Pvt Ltd\Desktop\Prediction_Engine\Claim_Model\PredictionEngine\Claim_model\claim_model_app\views.py changed, reloading.
+ERROR:django.server:"POST /PredictClaim/ HTTP/1.1" 500 114394
+INFO:django.utils.autoreload:D:\OneDrive - Quadratic Insights Pvt Ltd\Desktop\Prediction_Engine\Claim_Model\PredictionEngine\Claim_model\claim_model_app\views.py changed, reloading.
+INFO:django.server:"POST /PredictClaim/ HTTP/1.1" 200 516
+INFO:django.utils.autoreload:D:\OneDrive - Quadratic Insights Pvt Ltd\Desktop\Prediction_Engine\Claim_Model\PredictionEngine\Claim_model\claim_model_app\views.py changed, reloading.
